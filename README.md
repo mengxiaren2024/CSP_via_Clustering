@@ -3,7 +3,7 @@ This respository shares the datasets and codes for Content Security Policy (CSP)
 We take the unsupervised clustering approach to analyze the security levels of the deployed CSPs from the directive coverage and secure use perspectives.
 
 ## Datasets
-The dataset includes a homepage CSP cluster dataset, a homepage request dataset, a homepage HTML dataset, and a subpage analysis dataset. The dataset can be dowloaded at .
+The dataset includes a homepage CSP cluster dataset, a homepage request dataset, a homepage HTML dataset, and a subpage analysis dataset. The dataset can be dowloaded at https://doi.org/10.5281/zenodo.7689263.
 
 ## Codes
 The released code includes programs for extracting features from raw CSPs, programs for generating CSP representations for clustering, programs for setting the clustering model and categorizing CSPs, programs for analysis based on CSP clustering results, and programs for analyzing subpages.
